@@ -1,0 +1,7 @@
+.env
+datasets/
+myenv/
+/myenv
+venv/
+
+__pycache__/
