@@ -1,9 +1,9 @@
-# FileScope AI 🤖📊
+# FilAI 🤖📊
 
 ## Decentralized AI-Powered Dataset Analysis & Verification Platform
 
 
-FileScope AI provides dataset analysis, anomaly detection, and blockchain verification. Upload datasets, get analysis results, and store them on Filecoin.
+FilAI provides dataset analysis, anomaly detection, and blockchain verification. Upload datasets, get analysis results, and store them on Filecoin.
 
 ---
 
